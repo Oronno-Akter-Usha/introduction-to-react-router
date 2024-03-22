@@ -1,6 +1,6 @@
 import { useLoaderData } from "react-router-dom";
 import User from "../User/User";
-import './Uses.css'
+import './Users.css'
 
 
 const Uesrs = () => {
